@@ -1,7 +1,7 @@
 # Project_Heat_Wave_Impact
 all Notebooks used for the thesis project on modelling heat wave effects
 
-This file comprises all used Jupyter Notebooks during the work. Because of the large amounts of data that had to be loaded for the different tasks, multiple Notebooks had to created. They are split up by topic. A short description of the contents is shown below:
+This file comprises all used Jupyter Notebooks during the work. Because of the large amounts of data that had to be loaded for the different tasks, multiple Notebooks had to created. They are split up by topic with the numbers representing the logical order of the different steps to establish the final dataset. A short description of the contents is shown below:
 
 
 0_Locations_rv_geocode: the basis, reverse geocoding of all available coordinates in the raw weather data
